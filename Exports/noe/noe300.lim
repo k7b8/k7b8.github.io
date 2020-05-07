@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.5">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >PERFECTO</correcto>
+        <incorrecto son="" modo="1" >INTÉNTAO DE NOVO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Portada</cabeceira>
+              <imaxe>arca_grande.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12"> </font><font color="#080000" face="Arial" size="32">Os propongo una serie de actividades sobre el relato " El arca de Noe".<br>
+<br>
+No importa como sea la tormenta en la que estes, si perseveras siempre habrá para ti un arco iris esperándote al final.<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <cabeceira>REALIZA EL SIGUIENTE PUZZLE</cabeceira>
+              <evalua  crt="Ben" icrt="Inténtao de novo">1</evalua>
+              <imaxe>8.png</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>10</tipo>
+              <cabeceira>ESCRIBE LA RESPUESTA USANDO EL TECLADO</cabeceira>
+              <imaxe>2.png</imaxe>
+              <pregunta res="NOE">CUAL ES EL NOMBRE DE ESTE PERSONAJE BIBLICO?</pregunta>
+        </paxina>
+        <paxina id="4" >
+              <tipo>1</tipo>
+              <cabeceira>ELIGE LA RESPUESTA CORRECTA</cabeceira>
+              <imaxe>5.png</imaxe>
+              <texto>QUE CONSTRUYO NOE?</texto>
+              <resp texto="" valor="0">UNA SILLA</resp>
+              <resp texto="" valor="1">UN ARCA</resp>
+              <resp texto="" valor="0">UNA MESA</resp>
+              <resp texto="" valor="0">UNA ESTANTERÍA</resp>
+        </paxina>
+        <paxina id="5" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENA LAS VIÑETAS</cabeceira>
+              <forma>1</forma>
+              <completa>2.png</completa>
+              <completa>4.png</completa>
+              <completa>5.png</completa>
+              <completa>7.png</completa>
+              <completa>8.png</completa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>4</tipo>
+              <cabeceira>BUSCA EN ESTA SOPA DE LETRAS</cabeceira>
+              <modo>2</modo>
+              <sopa enun="arcoiris.jpg">ARCOIRIS</sopa>
+              <sopa enun="noe.jpg">NOE</sopa>
+              <sopa enun="ARCA.png">ARCA</sopa>
+              <sopa enun="ANIMALES.png">ANIMALES</sopa>
+              <sopa enun="cuervo.png">CUERVO</sopa>
+              <sopa enun="RAMA.png">RAMA</sopa>
+              <sopa enun="PALOMA.png">PALOMA</sopa>
+              <sopa enun="LLUVIA.png">LLUVIA</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>QUE ANIMAL APARECE EN LA IMAGEN? ESCRIBELO CON EL TECLADO</cabeceira>
+              <imfondo  posx="64" posy="4">7.png</imfondo>
+              <ctapa>0000FF</ctapa>
+              <resp>PALOMA</resp>
+              <rdim>60</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>SELECCIONA LAS IMÁGENES RELACIONAS CON EL ARCA DE NOÉ</cabeceira>
+              <etiqueta imaxe="NOE3.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="4.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="creacion.png" texto="">0</etiqueta>
+              <etiqueta imaxe="7.png" texto="">1</etiqueta>
+              <etiqueta imaxe="HIJO_1.png" texto="">0</etiqueta>
+              <etiqueta imaxe="arcoiris.jpg" texto="">1</etiqueta>
+              <cfondo>00FFFF</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+              <cabeceira>PULSA SOBRE LAS LETRAS</cabeceira>
+              <imaxe alt="CARPINTERO">2.png</imaxe>
+              <texto><![CDATA[CUÁL ES LA PROFESIÓN DE NOE?]]></texto>
+              <resp texto="">CARPINTERO</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>32</tipo>
+              <cabeceira>ARRASTRA LAS IMAGENES PARA REPETIR LA SERIE</cabeceira>
+              <modo>1</modo>
+              <etiqueta>jirafamama.jpg</etiqueta>
+              <etiqueta>cebra1.jpg</etiqueta>
+              <etiqueta>cangurosgrandes.jpg</etiqueta>
+              <etiqueta>monos.jpg</etiqueta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>46</tipo>
+              <cabeceira>RELACIONA LAS PALABRAS DE LAS DOS COLUMNAS</cabeceira>
+              <etiqueta texto="ARCA"  posy="1">NOE</etiqueta>
+              <etiqueta texto="RAMA"  posy="2">PALOMA</etiqueta>
+              <etiqueta texto="DILUVIO"  posy="3">LLUVIA</etiqueta>
+              <etiqueta texto="ANIMALES"  posy="4">PAREJA</etiqueta>
+              <etiqueta texto="MAR"  posy="5">TIERRA</etiqueta>
+              <etiqueta texto="MALO"  posy="">BUENO</etiqueta>
+        </paxina>
+        <paxina id="12" >
+              <tipo>39</tipo>
+              <cabeceira>BUSCA LAS PAREJAS ANTES DE QUE SE ACABE EL TIEMPO</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="1552510192.jpg" texto="">1552510219.jpg</parellas>
+              <parellas imaxe="1552510474.jpg" texto="">1552510449.jpg</parellas>
+              <parellas imaxe="FANTI1.jpg" texto="">FANTI.jpg</parellas>
+              <parellas imaxe="1552510376_(1).jpg" texto="">1552510355.jpg</parellas>
+              <parellas imaxe="1552510513.jpg" texto="">1552510493.jpg</parellas>
+              <parellas imaxe="conejogrande.jpg" texto="">LIEBRE.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>3</tipo>
+              <cabeceira>REALIZA EL SIGUIENTE PUZZLE</cabeceira>
+              <imaxe>arca-noe-.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>4</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <cabeceira>ELIGE LA REPUESTA CORRECTA?</cabeceira>
+              <imaxe>NOE3.jpg</imaxe>
+              <texto>CUALES DE ESTOS ANIMALES NO SUBIÓ NOE AL ARCA?</texto>
+              <resp texto="" valor="0">MONO</resp>
+              <resp texto="" valor="1">DELFÍN</resp>
+              <resp texto="" valor="0">JIRAFA</resp>
+              <resp texto="" valor="1">TIBURÓN</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>14</tipo>
+              <cabeceira>RELACIONA LAS IMÁGENES ARRASTRÁNDOLAS</cabeceira>
+              <peza imaxe="3.png" texto="" son="">ARCA.png</peza>
+              <peza imaxe="5.png" texto="" son="">LLUVIA.png</peza>
+              <peza imaxe="4.png" texto="" son="">cebra1.jpg</peza>
+              <cfondo>84E1FD</cfondo>
+        </paxina>
+        <paxina id="16" >
+              <tipo>4</tipo>
+              <cabeceira>LOCALIZA ALGUNOS DE LOS ANIMALES QUE SUBIERON AL ARCA</cabeceira>
+              <modo>2</modo>
+              <sopa enun="cebra1.jpg">CEBRA</sopa>
+              <sopa enun="FANTI.jpg">ELEFANTE</sopa>
+              <sopa enun="cangurosgrandes.jpg">CANGURO</sopa>
+              <sopa enun="leon.jpg">LEÓN</sopa>
+              <sopa enun="jirafamama.jpg">JIRAFA</sopa>
+              <sopa enun="mono.jpg">MONO</sopa>
+              <sopa enun="tigresgrandes.jpg">TIGRE</sopa>
+              <sopa enun="HIPOPOTAMO.jpg">HIPOPÓTAMO</sopa>
+              <enunciado>0</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="17" >
+              <tipo>24</tipo>
+              <cabeceira>SELECCIONA LAS IMÁGENES CON BUENOS COMPORTAMIENTOS</cabeceira>
+              <etiqueta imaxe="descarga_(1).jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="descarga_(7).jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="descarga_(8).jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="gettyimages-918106158-612x612.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="descarga_(2).jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="MAL1.jpg" texto="">0</etiqueta>
+              <cfondo>00FFFF</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>5</tipo>
+              <cabeceira>QUÉ  LE REGALA JIRAFITA A SU MADRE?</cabeceira>
+              <imfondo  posx="131" posy="0">jirafamama.jpg</imfondo>
+              <ctapa>0000FF</ctapa>
+              <resp>FLORES</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>CONTESTA A LA PREGUNTA</cabeceira>
+              <imaxe>8.png</imaxe>
+              <texto><![CDATA[QUE APARECIÓ EN EL CIELO CUANDO EL ARCA LLEGÓ A TIERRA?]]></texto>
+              <resp texto="">ARCOIRIS</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>44</tipo>
+              <cabeceira>ARRASTRA EL TEXTO Y RELACIONALO CON SU IMAGEN</cabeceira>
+              <cousa nome="NOE" son="">3.png</cousa>
+              <cousa nome="PALOMA" son="">7.png</cousa>
+              <cousa nome="ANIMALES" son="">ANIMALES.png</cousa>
+        </paxina>
+        <paxina id="21" >
+              <tipo>46</tipo>
+              <cabeceira>RELACIONA CADA ANIMAL CON SU PAREJA</cabeceira>
+              <etiqueta texto="LEONA"  posy="6">GALLO</etiqueta>
+              <etiqueta texto="GATA"  posy="4">BUEY</etiqueta>
+              <etiqueta texto="OVEJA"  posy="5">CABALLO</etiqueta>
+              <etiqueta texto="VACA"  posy="1">LEÓN</etiqueta>
+              <etiqueta texto="YEGUA"  posy="2">GATO</etiqueta>
+              <etiqueta texto="GALLINA"  posy="3">CARNERO</etiqueta>
+        </paxina>
+        <paxina id="22" >
+              <tipo>36</tipo>
+              <cabeceira>REPRODUCE EL ANCLA</cabeceira>
+              <forma>2</forma>
+              <modo>1</modo>
+              <etiqueta>00041000</etiqueta>
+              <etiqueta>00623600</etiqueta>
+              <etiqueta>00051000</etiqueta>
+              <etiqueta>10063004</etiqueta>
+              <etiqueta>06036062</etiqueta>
+              <etiqueta>02541520</etiqueta>
+              <etiqueta>00062000</etiqueta>
+        </paxina>
+        <paxina id="23" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica los animales en carnívoros (se alimentan de carne), herbívoros (se alimentan de hierba)</cabeceira>
+              <caixa1>Carnívoros</caixa1>
+              <caixa2>Herbívoros</caixa2>
+              <mini caixa="1">1552510376.jpg</mini>
+              <mini caixa="2">1552510192.jpg</mini>
+              <mini caixa="1">1552510449.jpg</mini>
+              <mini caixa="2">LIEBRE.jpg</mini>
+              <mini caixa="1">1552510545.jpg</mini>
+              <mini caixa="2">cebra1.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="24" >
+              <tipo>23</tipo>
+              <cabeceira>Arrastra los animales al arca</cabeceira>
+              <imaxe>ARCA.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="125" posy="174">cuervo.png</etiqueta>
+              <etiqueta posx="123" posy="243">tigre.jpg</etiqueta>
+              <etiqueta posx="245" posy="159">CONEJO.jpg</etiqueta>
+              <etiqueta posx="215" posy="226">jirafa.jpg</etiqueta>
+              <etiqueta posx="300" posy="237">cebra.jpg</etiqueta>
+              <etiqueta posx="193" posy="291">canguros.jpg</etiqueta>
+        </paxina>
+    </libro>
+</lim>
