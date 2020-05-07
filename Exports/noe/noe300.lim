@@ -122,12 +122,12 @@ No importa como sea la tormenta en la que estes, si perseveras siempre habrá pa
         <paxina id="11" >
               <tipo>46</tipo>
               <cabeceira>RELACIONA LAS PALABRAS DE LAS DOS COLUMNAS</cabeceira>
-              <etiqueta texto="ARCA"  posy="1">NOE</etiqueta>
-              <etiqueta texto="RAMA"  posy="2">PALOMA</etiqueta>
-              <etiqueta texto="DILUVIO"  posy="3">LLUVIA</etiqueta>
-              <etiqueta texto="ANIMALES"  posy="4">PAREJA</etiqueta>
-              <etiqueta texto="MAR"  posy="5">TIERRA</etiqueta>
-              <etiqueta texto="MALO"  posy="">BUENO</etiqueta>
+              <etiqueta texto="MAR"  posy="5">NOE</etiqueta>
+              <etiqueta texto="ANIMALES"  posy="3">PALOMA</etiqueta>
+              <etiqueta texto="RAMA"  posy="6">LLUVIA</etiqueta>
+              <etiqueta texto="MALO"  posy="2">PAREJA</etiqueta>
+              <etiqueta texto="ARCA"  posy="1">TIERRA</etiqueta>
+              <etiqueta texto="DILUVIO"  posy="4">BUENO</etiqueta>
         </paxina>
         <paxina id="12" >
               <tipo>39</tipo>
@@ -255,6 +255,8 @@ No importa como sea la tormenta en la que estes, si perseveras siempre habrá pa
               <mini caixa="1">1552510545.jpg</mini>
               <mini caixa="2">cebra1.jpg</mini>
               <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
         </paxina>
         <paxina id="24" >
               <tipo>23</tipo>
