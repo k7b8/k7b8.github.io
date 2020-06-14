@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.5">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="35" posy="-2">biblia3.jpg</imaxe>
+              <texto posx="483" posy="11" ancho="183" largo="80"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial Black" size="46">LA BIBLIA</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>Observa el esquema</cabeceira>
+              <imaxe posx="0" posy="-4">esquema_biblia.png</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <cabeceira>Responde esta pregunta</cabeceira>
+              <imaxe>BIBLIA.jpg</imaxe>
+              <texto><![CDATA[Cuál es el nombre del libro sagrado de los cristianos?]]></texto>
+              <resp texto="">Biblia</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <cabeceira>Responde a la pregunta</cabeceira>
+              <imaxe>BIBLIA.jpg</imaxe>
+              <texto><![CDATA[La biblia es el libro sagrado de los...]]></texto>
+              <resp texto="">Cristianos</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>18</tipo>
+              <cabeceira>Elige la respuesta correcta</cabeceira>
+              <modo>3</modo>
+              <completa ant="La biblia cuenta la historia de la " post="">salvación</completa>
+              <completa ant="La biblia está formada por" post="libros">73</completa>
+              <completa ant="La biblia está dividida en " post="testamento">antiguo y nuevo</completa>
+              <completa ant="El antiguo testamento está formado por" post="libros">47</completa>
+              <completa ant="El nuevo testamento está formado por" post="libros">26</completa>
+              <completa ant="En la biblia se habla del pueblo de " post="">Israel</completa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>2</tipo>
+              <cabeceira>Antiguo Testamento</cabeceira>
+              <imaxe posx="0" posy="3" alt="A">libros_antiguo_testamento.jpg</imaxe>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+              <cabeceira>Elige la respuesta correcta</cabeceira>
+              <imaxe>libros_antiguo_testamento.jpg</imaxe>
+              <texto>Señala los libros del antiguo testamento.</texto>
+              <resp texto="" valor="1">Génesis</resp>
+              <resp texto="" valor="0">Mateo</resp>
+              <resp texto="" valor="1">Daniel</resp>
+              <resp texto="" valor="0">Romanos</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <cabeceira>Elige la respuesta correcta</cabeceira>
+              <imaxe>antiguo_testamento.jpg</imaxe>
+              <texto>El antiguo testamento narra</texto>
+              <resp texto="" valor="0">La vida y las enseñanzas de Jesús</resp>
+              <resp texto="" valor="1">La historia del pueblo de Israel</resp>
+              <resp texto="" valor="0">El nacimiento de la iglesia</resp>
+              <resp texto="" valor="0">La  historia de Noe</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>4</tipo>
+              <cabeceira>Localiza libros del antiguo testamento</cabeceira>
+              <modo>1</modo>
+              <sopa enun="Reyes">reyes</sopa>
+              <sopa enun="Judit">judit</sopa>
+              <sopa enun="Levítico">levítico</sopa>
+              <sopa enun="Proverbios">proverbios</sopa>
+              <sopa enun="Números">números</sopa>
+              <sopa enun="Crónicas">crónicas</sopa>
+              <sopa enun="Tobías">tobías</sopa>
+              <sopa enun="Daniel">daniel</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="10" >
+              <tipo>3</tipo>
+              <cabeceira>Puzzle</cabeceira>
+              <imaxe>puzzleadan_y_eva.jpg</imaxe>
+              <filas>8</filas>
+              <columnas>8</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="11" >
+              <tipo>19</tipo>
+              <cabeceira>Busca la palabra secreta</cabeceira>
+              <imaxe>6.jpg</imaxe>
+              <texto><![CDATA[Que personajes del antiguo testamento aparecen en el puzzle anterior?]]></texto>
+              <resp texto="">Adán y Eva</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>44</tipo>
+              <cabeceira>Identifica estos personajes de la biblia</cabeceira>
+              <cousa nome="Abraham" son="">Abraham.png</cousa>
+              <cousa nome="David" son="">David.png</cousa>
+              <cousa nome="Moisés" son="">moises.png</cousa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>35</tipo>
+              <cabeceira>ORDENA LAS VIÑETAS DEL RELATO DEL ANTIGUO TESTAMENTO</cabeceira>
+              <forma>0</forma>
+              <completa>3.png</completa>
+              <completa>4.png</completa>
+              <completa>5.png</completa>
+              <completa>7.png</completa>
+              <completa>8.png</completa>
+        </paxina>
+        <paxina id="14" >
+              <tipo>5</tipo>
+              <cabeceira>Cuantás flores hay en el jardín del Edén? (escribe la repuesta en letra)</cabeceira>
+              <imfondo  posx="0" posy="7">2.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>Ocho</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="15" >
+              <tipo>2</tipo>
+              <cabeceira>Nuevo testamento</cabeceira>
+              <imaxe posx="0" posy="3">nuevo_testamento2.jpg</imaxe>
+        </paxina>
+        <paxina id="16" >
+              <tipo>1</tipo>
+              <cabeceira>Elige la respuesta correcta</cabeceira>
+              <imaxe>libros_nuevo_testamento1.jpg</imaxe>
+              <texto>Señala los libros del Nuevo Testamento</texto>
+              <resp texto="" valor="1">Santiago</resp>
+              <resp texto="" valor="0">Exodo</resp>
+              <resp texto="" valor="1">Juan</resp>
+              <resp texto="" valor="0">Macabeos</resp>
+        </paxina>
+        <paxina id="17" >
+              <tipo>4</tipo>
+              <cabeceira>Localiza los libros del nuevo testamento</cabeceira>
+              <modo>1</modo>
+              <sopa enun="Juan">juan</sopa>
+              <sopa enun="Hechos">hechos</sopa>
+              <sopa enun="Romanos">romanos</sopa>
+              <sopa enun="Timoteo">timoteo</sopa>
+              <sopa enun="Filipenses">filipenses</sopa>
+              <sopa enun="Tito">tito</sopa>
+              <sopa enun="Galatas">galatas</sopa>
+              <sopa enun="Hebreos">hebreos</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="18" >
+              <tipo>3</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>Haz el siguiente puzle, en el que aparece un personaje del nuevo testamento</cabeceira>
+              <imaxe>jesus.jpg</imaxe>
+              <filas>8</filas>
+              <columnas>8</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="19" >
+              <tipo>19</tipo>
+              <cabeceira>Personaje nuevo testamento</cabeceira>
+              <imaxe>ninno_jesus1.gif</imaxe>
+              <texto><![CDATA[Cuál es el personaje del nuevo testamento que aparece en el puzzle anterior?]]></texto>
+              <resp texto="">Jesús</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="20" >
+              <tipo>19</tipo>
+              <cabeceira>Contesta a la pregunta</cabeceira>
+              <imaxe>12_APOSTOLES.JPG</imaxe>
+              <texto><![CDATA[En esta imagen a Jesús lo acompañan los doce...]]></texto>
+              <resp texto="">Apóstoles</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="21" >
+              <tipo>2</tipo>
+              <cabeceira>Curiosidades de la biblia</cabeceira>
+              <imaxe posx="1" posy="1">5.-+CURIOSIDADES+DE+LA+BIBLIA_.jpg</imaxe>
+        </paxina>
+        <paxina id="22" >
+              <tipo>4</tipo>
+              <cabeceira>Localiza el nombre de estos personajes bíblicos</cabeceira>
+              <modo>2</modo>
+              <sopa enun="Abraham.png">abraham</sopa>
+              <sopa enun="David.png">david</sopa>
+              <sopa enun="Eva.png">moisés</sopa>
+              <sopa enun="maria.jpg">maría</sopa>
+              <sopa enun="adan.png">adán</sopa>
+              <sopa enun="moises.png">eva</sopa>
+              <sopa enun="jesus.jpg">jesús</sopa>
+              <sopa enun="8.png">noe</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="23" >
+              <tipo>46</tipo>
+              <cabeceira>Relaciona estos personajes bíblicos</cabeceira>
+              <etiqueta texto="Abel"  posy="3">Adan</etiqueta>
+              <etiqueta texto="Dalila"  posy="5">Abraham</etiqueta>
+              <etiqueta texto="Eva"  posy="6">David</etiqueta>
+              <etiqueta texto="María"  posy="4">José</etiqueta>
+              <etiqueta texto="Sara"  posy="2">Sanson</etiqueta>
+              <etiqueta texto="Goliat"  posy="1">Caín</etiqueta>
+        </paxina>
+        <paxina id="24" >
+              <tipo>39</tipo>
+              <cabeceira>Busca las parejas antes de que se acabe el tiempo</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="Eva.png" texto="">adan.png</parellas>
+              <parellas imaxe="mari.jpg" texto="">jose.jpg</parellas>
+              <parellas imaxe="sanson_2.jpg" texto="">dalila.jpg</parellas>
+              <parellas imaxe="goliat13.png" texto="">david_(2).jpg</parellas>
+              <parellas imaxe="cain.jpg" texto="">abel.jpg</parellas>
+              <parellas imaxe="sara_.jpg" texto="">Abraham.png</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="25" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica los personajes bíblicos</cabeceira>
+              <caixa1>Antiguo Testamento</caixa1>
+              <caixa2>Nuevo Testamento</caixa2>
+              <mini caixa="1">DAVID_GOLIAT.gif</mini>
+              <mini caixa="2">12_APOSTOLES.JPG</mini>
+              <mini caixa="1">JONAS.gif</mini>
+              <mini caixa="2">MARTA_MARIA.png</mini>
+              <mini caixa="1">ADAN_Y_EVA.gif</mini>
+              <mini caixa="2">REYES_MA.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro></cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="26" >
+              <tipo>1</tipo>
+              <cabeceira>Elige la respuesta correcta</cabeceira>
+              <imaxe>texto_parabola.jpg</imaxe>
+              <texto>En el nuevo testamento aparecen las parábolas que contaba Jesús. Sabrías decirme que son?</texto>
+              <resp texto="" valor="0">Relatos sobre los milagros de Jesús.</resp>
+              <resp texto="" valor="1">Sencillas narraciones que usaba Jesús para hablar del Reino de Dios.</resp>
+              <resp texto="" valor="0">Relatos sobre la vida de Moisés.</resp>
+              <resp texto="" valor="0">Relatos sobre la historia del pueblo de Israel</resp>
+        </paxina>
+        <paxina id="27" >
+              <tipo>4</tipo>
+              <cabeceira>Resuelve la sopa de letras</cabeceira>
+              <modo>1</modo>
+              <sopa enun="Dios promete un">salvador</sopa>
+              <sopa enun="Pueblo escogido por Dios">israel</sopa>
+              <sopa enun="Padre de todo el pueblo de Israel">abraham</sopa>
+              <sopa enun="Jefe de una gran familia">patriarca</sopa>
+              <sopa enun="Palabra de Dios">biblia</sopa>
+              <sopa enun="Buena noticia">evangelio</sopa>
+              <sopa enun="Primer libro del antiguo testamento">génesis</sopa>
+              <sopa enun="El nuevo testamento cuenta la vida de">jesús</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="28" >
+              <tipo>2</tipo>
+              <cabeceira>Evangelios</cabeceira>
+              <imaxe posx="0" posy="2">evangelios.jpg</imaxe>
+              <texto posx="242" posy="2" ancho="355" largo="350"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="12">Los Evangelios son la Buena Noticia de la llegada del Reino de Dios.<br>
+<br>
+Son los cuatro libros más importantes del Nuevo Testamento porque narran la vida de Jesús, su muerte y su resurrección.<br>
+<br>
+Estos libros fueron escritos por personas que vivieron en la época de Jesús y narran los acontecimientos que ellos mismos presenciaron o de los que otros cristianos fueron testigos. Los autores de los evangelios son los evangelistas inspirados por el Espíritu Santo:  Mateo, Marcos, Lucas y Juan<br>
+Los Evangelios son la Buena Noticia de la llegada del Reino de Dios.<br>
+<br>
+<br>
+Los símbolos de los cuatro evangelistas<br>
+<br>
+Tradicionalmente se suele representar a los cuatro evangelistas mediante cuatro símbolos.<br>
+<br>
+El orden en el que aparecen en el Nuevo Testamento son;<br>
+<br>
+El ángel (un hombre con alas). Mateo<br>
+El león :Marcos.<br>
+El  buey.Lucas<br>
+El águila:Juan</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="29" >
+              <tipo>1</tipo>
+              <cabeceira>Elige la respuesta correcta</cabeceira>
+              <imaxe>evangelios.jpg</imaxe>
+              <texto>Que significa la palabra evangelio?</texto>
+              <resp texto="" valor="1">Buena noticia</resp>
+              <resp texto="" valor="0">Libro de relatos</resp>
+              <resp texto="" valor="0">Parte de la biblia</resp>
+              <resp texto="" valor="0">Cuento para niños</resp>
+        </paxina>
+        <paxina id="30" >
+              <tipo>1</tipo>
+              <cabeceira>Elige la respuesta correcta</cabeceira>
+              <imaxe>evangelios.jpg</imaxe>
+              <texto>Los evangelios son los libros más importantes del nuevo testamento porque</texto>
+              <resp texto="" valor="1">Recogen la vida y las enseñanzas de Jesús.</resp>
+              <resp texto="" valor="0">Están situados al principio del Nuevo Testamento.</resp>
+              <resp texto="" valor="0">Son los libros más largos de la Biblia.</resp>
+              <resp texto="" valor="0">Fueron escritos por los discípulos de Jesús.</resp>
+        </paxina>
+        <paxina id="31" >
+              <tipo>2</tipo>
+              <cabeceira>Simbolo de cada evangelista</cabeceira>
+              <imaxe posx="70" posy="0">simbolos_evangelistas.jpg</imaxe>
+        </paxina>
+        <paxina id="32" >
+              <tipo>11</tipo>
+              <cabeceira>Identifica a los evangelistas.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Lucas">lucas.png</cousa>
+              <cousa nome="Marcos">marcos.png</cousa>
+              <cousa nome="Mateo">mateo.png</cousa>
+              <cousa nome="Juan">juan.png</cousa>
+        </paxina>
+        <paxina id="33" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-95">8.jpg</imaxe>
+              <texto posx="137" posy="258" ancho="150" largo="87"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54"><b>GRACIAS</b></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>

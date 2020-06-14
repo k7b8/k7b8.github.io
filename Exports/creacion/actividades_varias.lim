@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.5">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>11.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">Cuidamos<br>
+     la <br>
+creación.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <cabeceira>Haz el puzzle</cabeceira>
+              <imaxe>PUZLE1.jpg</imaxe>
+              <filas>5</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>7</tipo>
+              <cabeceira>Arrastra las imágenes a su lugar correspondiente</cabeceira>
+              <caixa1>Creado por Dios</caixa1>
+              <caixa2>Creado por los hombres</caixa2>
+              <mini caixa="1">drag6.png</mini>
+              <mini caixa="2">drag2.png</mini>
+              <mini caixa="1">flor.png</mini>
+              <mini caixa="2">drag3.png</mini>
+              <mini caixa="1">drag4.png</mini>
+              <mini caixa="2">drag5.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+              <cabeceira>Localiza estas palabras relacionadas con  la creación</cabeceira>
+              <modo>1</modo>
+              <sopa enun="MAR">MAR</sopa>
+              <sopa enun="HOMBRE">HOMBRE</sopa>
+              <sopa enun="TIERRA">TIERRA</sopa>
+              <sopa enun="ANIMALES">ANIMALES</sopa>
+              <sopa enun="ESTRELLAS">ESTRELLAS</sopa>
+              <sopa enun="LUZ">LUZ</sopa>
+              <sopa enun="OSCURIDAD">OSCURIDAD</sopa>
+              <sopa enun="SIETE">SIETE</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="5" >
+              <tipo>23</tipo>
+              <cabeceira>Arrastra la imágenes</cabeceira>
+              <imaxe>2.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="405" posy="12">FARO.png</etiqueta>
+              <etiqueta posx="527" posy="0">NINNA.png</etiqueta>
+              <etiqueta posx="341" posy="109">FLOR1.png</etiqueta>
+              <etiqueta posx="566" posy="98">GAVIOTA.png</etiqueta>
+              <etiqueta posx="536" posy="169">drag5.png</etiqueta>
+              <etiqueta posx="398" posy="286">GATO.jpg</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>39</tipo>
+              <cabeceira>Localiza las parejas</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="luna.png" texto="">sol.png</parellas>
+              <parellas imaxe="regadera.png" texto="">flor.png</parellas>
+              <parellas imaxe="pez.jpg" texto="">pescador.jpg</parellas>
+              <parellas imaxe="manzana.png" texto="">arbol.png</parellas>
+              <parellas imaxe="pajaro3.png" texto="">gusano.jpg</parellas>
+              <parellas imaxe="nido.jpg" texto="">pollito.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>5</tipo>
+              <cabeceira>Que tiene Eva en la mano? (solo una palabra en minúsculas)</cabeceira>
+              <imfondo  posx="54" posy="5">puzle22.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>manzana</resp>
+              <rdim>50</rdim>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <cabeceira>Observa este esquema sobre la creación que te ayudará a realizar las actividades.</cabeceira>
+              <imaxe>esquema_creacion.jpg</imaxe>
+              <forma>0</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>35</tipo>
+              <cabeceira>Ordena las imágenes según el relato de la creación</cabeceira>
+              <forma>0</forma>
+              <completa>2.png</completa>
+              <completa>3.png</completa>
+              <completa>4.png</completa>
+              <completa>5.png</completa>
+              <completa>6.png</completa>
+        </paxina>
+        <paxina id="10" >
+              <tipo>30</tipo>
+              <cabeceira>Ordena según el relato de la creación</cabeceira>
+              <imaxe posx="0" posy="0">ordena_la_creaci_on2.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="395" posy="22">1</etiqueta>
+              <etiqueta posx="118" posy="145">2</etiqueta>
+              <etiqueta posx="112" posy="262">3</etiqueta>
+              <etiqueta posx="307" posy="154">4</etiqueta>
+              <etiqueta posx="109" posy="15">5</etiqueta>
+              <etiqueta posx="257" posy="22">6</etiqueta>
+        </paxina>
+        <paxina id="11" >
+              <tipo>5</tipo>
+              <cabeceira>Cuántas aves aparecen en el paisaje? (numeró en letras minúsculas)</cabeceira>
+              <imfondo  posx="60" posy="0">paisaje22.jpg</imfondo>
+              <ctapa>84E1FD</ctapa>
+              <resp>tres</resp>
+              <rdim>60</rdim>
+        </paxina>
+        <paxina id="12" >
+              <tipo>23</tipo>
+              <cabeceira>Mueve las imágenes.</cabeceira>
+              <imaxe>paisaje_completar.jpg</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="448" posy="98">gusanito.jpg</etiqueta>
+              <etiqueta posx="429" posy="56">pececito.jpg</etiqueta>
+              <etiqueta posx="423" posy="12">leoncito.jpg</etiqueta>
+              <etiqueta posx="426" posy="221">pajarito_amarillo.jpg</etiqueta>
+              <etiqueta posx="445" posy="132">jirafita.png</etiqueta>
+              <etiqueta posx="445" posy="269">GAVIOTA.png</etiqueta>
+        </paxina>
+        <paxina id="13" >
+              <tipo>3</tipo>
+              <cabeceira>Realiza el siguiente puzle. Disfrutando de la creación.</cabeceira>
+              <imaxe>puzzle_cuidamos_la_creaci_on.png</imaxe>
+              <filas>5</filas>
+              <columnas>6</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="14" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las imágenes</cabeceira>
+              <caixa1>Comportamientos que cuidan la creación</caixa1>
+              <caixa2>Comportamientos que destrozan la creación</caixa2>
+              <mini caixa="1">descarga_(1).jpg</mini>
+              <mini caixa="2">images_(10).jpg</mini>
+              <mini caixa="1">descarga_(5).jpg</mini>
+              <mini caixa="2">images_(13).jpg</mini>
+              <mini caixa="1">descarga_(6).jpg</mini>
+              <mini caixa="2">images_(7).jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="15" >
+              <tipo>23</tipo>
+              <cabeceira>Arrastra las imágenes</cabeceira>
+              <imaxe>arrastra_dibujo.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="546" posy="122">nido5.png</etiqueta>
+              <etiqueta posx="566" posy="94">nido1.png</etiqueta>
+              <etiqueta posx="582" posy="120">nido2.png</etiqueta>
+              <etiqueta posx="513" posy="0">nido3.png</etiqueta>
+              <etiqueta posx="570" posy="94">nido4.png</etiqueta>
+              <etiqueta posx="571" posy="185">nido6.png</etiqueta>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>Señala los buenos comportamientos</cabeceira>
+              <etiqueta imaxe="crea1.png" texto="">0</etiqueta>
+              <etiqueta imaxe="crea2.png" texto="">1</etiqueta>
+              <etiqueta imaxe="crea3.png" texto="">0</etiqueta>
+              <etiqueta imaxe="crea4.png" texto="">1</etiqueta>
+              <etiqueta imaxe="crea5.png" texto="">1</etiqueta>
+              <etiqueta imaxe="crea6.png" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>30</tipo>
+              <cabeceira>Arrastra las etiquetas a su lugar</cabeceira>
+              <imaxe posx="0" posy="0">crea7.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="15" posy="251">ELEFANTES</etiqueta>
+              <etiqueta posx="84" posy="55">NUBE</etiqueta>
+              <etiqueta posx="248" posy="64">ÁRBOL</etiqueta>
+              <etiqueta posx="197" posy="212">ADÁN</etiqueta>
+              <etiqueta posx="306" posy="210">EVA</etiqueta>
+              <etiqueta posx="427" posy="283">LEONES</etiqueta>
+        </paxina>
+        <paxina id="18" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las imágenes</cabeceira>
+              <fondocaixa1 trans="100">emoticono_perfecto.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">emoticono_fatal.jpg</fondocaixa2>
+              <caixa1>Buenas acciones</caixa1>
+              <caixa2>Malas acciones</caixa2>
+              <mini caixa="2">bien1.png</mini>
+              <mini caixa="1">bien2.png</mini>
+              <mini caixa="1">bien3.png</mini>
+              <mini caixa="2">bien4.png</mini>
+              <mini caixa="1">bien5.png</mini>
+              <mini caixa="2">bien6.png</mini>
+              <cfondo>00FFFF</cfondo>
+              <cadro>1</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>4</tipo>
+              <cabeceira>Busca las actitudes que nos ayudan a hacer el bien</cabeceira>
+              <modo>1</modo>
+              <sopa enun="AYUDA">AYUDA</sopa>
+              <sopa enun="COMPARTE">COMPARTE</sopa>
+              <sopa enun="GENEROSO">GENEROSO</sopa>
+              <sopa enun="SOLIDARIO">SOLIDARIO</sopa>
+              <sopa enun="COLABORADOR">COLABORADOR</sopa>
+              <sopa enun="DIALOGO">DIALOGO</sopa>
+              <sopa enun="PACIENCIA">PACIENCIA</sopa>
+              <sopa enun="CUIDA">CUIDA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="20" >
+              <tipo>36</tipo>
+              <cabeceira>Esta cara sonriente es la de un planeta cuidado. Reprodúcela.</cabeceira>
+              <forma>2</forma>
+              <modo>1</modo>
+              <etiqueta>00444400</etiqueta>
+              <etiqueta>04222240</etiqueta>
+              <etiqueta>40800804</etiqueta>
+              <etiqueta>40011004</etiqueta>
+              <etiqueta>40333304</etiqueta>
+              <etiqueta>04000040</etiqueta>
+              <etiqueta>00444400</etiqueta>
+        </paxina>
+        <paxina id="21" >
+              <tipo>18</tipo>
+              <cabeceira>Escoge la respuesta correcta</cabeceira>
+              <modo>3</modo>
+              <completa ant="Insultar a los compañeros nos hace" post="">infelices</completa>
+              <completa ant="Atender en clase, sacar buenas notas  nos hace" post="">felices</completa>
+              <completa ant="Desobedecer a los padres nos hace" post="">infelices</completa>
+              <completa ant="Ayudar, ser educados nos hace" post="">felices</completa>
+              <completa ant="Destrozar lo que nos rodea nos hace" post="">infelices</completa>
+              <completa ant="Cuidar a los animales nos hace" post="">felices</completa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>24</tipo>
+              <cabeceira>Cual de estos libros nos habla de Jesús?</cabeceira>
+              <etiqueta imaxe="libro_7.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="libro6.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="libro5.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="libro3.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="libro4.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="libro2.jpg" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="23" >
+              <tipo>23</tipo>
+              <cabeceira>Arrastra el sentido que usa cada niño para disfrutar de la naturaleza o con otros niños.</cabeceira>
+              <imaxe>sentido9.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="582" posy="89">sentido2.png</etiqueta>
+              <etiqueta posx="650" posy="1">sentido3.png</etiqueta>
+              <etiqueta posx="653" posy="123">sentido4.png</etiqueta>
+              <etiqueta posx="578" posy="187">sentido5.png</etiqueta>
+              <etiqueta posx="563" posy="12">sentido6.png</etiqueta>
+              <etiqueta posx="524" posy="131">sentido6.png</etiqueta>
+        </paxina>
+        <paxina id="24" >
+              <tipo>7</tipo>
+              <cabeceira>Cuidan o no cuidan la creación</cabeceira>
+              <caixa1>Cuidan la naturaleza</caixa1>
+              <caixa2>No cuidan la naturaleza</caixa2>
+              <mini caixa="1">cuido1.png</mini>
+              <mini caixa="2">cuido2.png</mini>
+              <mini caixa="1">cuido7.png</mini>
+              <mini caixa="2">cuido6.png</mini>
+              <mini caixa="1">cuido3.png</mini>
+              <mini caixa="2">cuido5.png</mini>
+              <cfondo>FFFFFF</cfondo>
+              <cadro>1</cadro>
+              <modo></modo>
+        </paxina>
+        <paxina id="25" >
+              <tipo>30</tipo>
+              <cabeceira>Estos niños han ido a disfrutar de la naturaleza, arrastra los números para ordenar las viñetas.</cabeceira>
+              <imaxe posx="0" posy="0">vamos_a_la_montanna.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="130" posy="311">1</etiqueta>
+              <etiqueta posx="201" posy="84">2</etiqueta>
+              <etiqueta posx="253" posy="204">3</etiqueta>
+              <etiqueta posx="410" posy="38">4</etiqueta>
+              <etiqueta posx="45" posy="177">5</etiqueta>
+        </paxina>
+        <paxina id="26" >
+              <tipo>24</tipo>
+              <cabeceira>Haz clic en las imágenes en las que las personas están cuidando de los demás.</cabeceira>
+              <etiqueta imaxe="ayuda1.png" texto="">1</etiqueta>
+              <etiqueta imaxe="ayuda2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="ayuda3.png" texto="">1</etiqueta>
+              <etiqueta imaxe="ayuda4.png" texto="">0</etiqueta>
+              <etiqueta imaxe="ayuda5.png" texto="">1</etiqueta>
+              <etiqueta imaxe="descarga_(6).jpg" texto="">1</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="27" >
+              <tipo>30</tipo>
+              <cabeceira>Que emoción refleja cada equipo</cabeceira>
+              <imaxe posx="0" posy="0">triste.png</imaxe>
+              <modo>2</modo>
+              <etiqueta posx="361" posy="197">CONTENTOS</etiqueta>
+              <etiqueta posx="186" posy="325">TRISTES</etiqueta>
+              <etiqueta posx="127" posy="183">ENFADADOS</etiqueta>
+        </paxina>
+        <paxina id="28" >
+              <tipo>11</tipo>
+              <cabeceira>Sabrías decirme que están haciendo estos amigos?</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Los amigos cantan juntos">AMIGOS5.png</cousa>
+              <cousa nome="Los amigos se consuelan">AMIGOS4.png</cousa>
+              <cousa nome="Los amigos se quieren">AMIGOS3.png</cousa>
+              <cousa nome="Los amigos comparten">AMIGOS6.png</cousa>
+        </paxina>
+        <paxina id="29" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="-179">8.jpg</imaxe>
+              <texto posx="137" posy="173" ancho="131" largo="87"><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="54">GRACIAS</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+    </libro>
+</lim>
